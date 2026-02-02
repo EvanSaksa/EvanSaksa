@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am pursuing a career in cybersecurity 
+
 <!--
 **EvanSaksa/EvanSaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
