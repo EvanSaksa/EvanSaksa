@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Evan 👋</h1>
 
 <p align="center">
-  Information Technology Infrastructure student at the University of Minnesota, focused on security.<br/>
-  Building full-stack software and running a homelab in my spare time.
+  IT Infrastructure student at the University of Minnesota.<br/>
+  Comfortable across networking, systems administration, scripting, and cloud — with a soft spot for homelabs.
 </p>
 
 <p align="center">
@@ -14,39 +14,43 @@
 
 ### 🎓 About Me
 
-- 🎓 B.S. in Information Technology Infrastructure, **Security Focus** — University of Minnesota (expected May 2027)
-- 🛠️ Currently building **Ziplist**, a cross-listing SaaS platform for online resellers
-- 🖥️ Operate a **Proxmox homelab** as a daily testbed for networking, virtualization, and security work
-- 🔐 Interested in application security, infrastructure security, and secure system design
+- 🎓 B.S. in **Information Technology Infrastructure** — University of Minnesota (expected May 2027)
+- 🖥️ Run a **Proxmox homelab** with Linux containers, virtual networking, and self-hosted services
+- 🧰 Hands-on with **networking, Linux systems, scripting, and cloud platforms**
+- 🔎 Looking for IT roles (support, systems, networking, cloud, security) where I can learn fast and contribute
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**
+**Systems & Networking**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=openssh&logoColor=white)
 
-**Infrastructure & Cloud**
+**Virtualization & Cloud**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
-**Backend & Data**
+**Scripting & Languages**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Services & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -55,8 +59,8 @@
 
 ### 📌 Featured Projects
 
-- 🔗 **[Ziplist](https://github.com/EvanSaksa/ziplist-overview)** — Cross-listing SaaS that automates posting and removing items across eBay, Poshmark, Depop, Mercari, and Vinted
-- 🔗 **[Homelab](https://github.com/EvanSaksa/homelab)** — Documentation of my Proxmox server, network topology, and self-hosted services
+- 🔗 **[Homelab](https://github.com/EvanSaksa/homelab)** — Documentation of my Proxmox server, network topology, Linux containers, and self-hosted services
+- 🔗 **[Ziplist](https://github.com/EvanSaksa/ziplist-overview)** — Full-stack SaaS project covering OAuth, job queues, PostgreSQL, and containerized workers
 
 ---
 
